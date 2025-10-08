@@ -7,13 +7,13 @@ criaCartao(
 criaCartao(
     'Programação',
     'O que é CSS?',
-    'È uma linguagem de programação utilizada para dar estilo á página
+    'È uma linguagem de programação utilizada para dar estilo á página'
 )
 
 criaCartao(
     'Programação',
     'O que é JavaScript',
-    'O JavaScript (JS) é uma linguagem de programação que nos permite interagir com a página
+    'O JavaScript (JS) é uma linguagem de programação que nos permite interagir com a página'
 )
 
 criaCartao(
@@ -23,7 +23,7 @@ criaCartao(
 )
 
 criaCartao(
-    Programação,
+    'Programação',
     'O que é a tag footer?',
     'È a tag utilizada para criar o rodapé'
 )
